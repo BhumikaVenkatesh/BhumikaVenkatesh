@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikavenkatesh&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikavenkatesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhumikavenkatesh" alt="bhumikavenkatesh" /></a> </p>
-
 - 🔭 I’m currently working on **Custom Object Recognition model**
 
 - 🌱 I’m currently learning **Deep Learning Essentials**
@@ -17,6 +15,8 @@
 - 💬 Ask me about **Python and Machine Learning**
 
 - 📫 How to reach me **bhumikav1948@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhumikavenkatesh" alt="bhumikavenkatesh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
