@@ -1,6 +1,6 @@
 [![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)]
 <h1 align="center">Hi 👋, I'm Bhumika V</h1>
-<h3 align="center">As a passionate and lifelong learner in the field of Data Science, I bring a robust skill set encompassing Python, SQL, Machine Learning, AI, Cloud and Software Testing. With a motivated and enthusiastic approach to expanding my technical expertise, I am a dedicated graduate who believes strongly in the transformative capabilities of artificial intelligence.</h3>
+<h3 align="center">As a passionate Data Science enthusiast and a lifelong learner, I bring a robust skill set encompassing Python, SQL, Machine Learning, AI, Cloud and Software Testing. With a motivated and enthusiastic approach to expanding my technical expertise, I am a dedicated graduate who believes strongly in the transformative capabilities of artificial intelligence.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif">
 
