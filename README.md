@@ -1,4 +1,4 @@
-[![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)]
+![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
 <h1 align="center">Hi 👋, I'm Bhumika V</h1>
 <h3 align="center">As a passionate Data Science enthusiast and a lifelong learner, I bring a robust skill set encompassing Python, SQL, Machine Learning, AI, Cloud and Software Testing.</h3>
 
