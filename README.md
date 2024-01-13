@@ -1,4 +1,4 @@
-![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
+![MasterHead](https://media.licdn.com/dms/image/C4E1BAQEgKLUAYDztBQ/company-background_10000/0/1627064906431/kdag_cover?e=2147483647&v=beta&t=1cFKdHX_S7J6ddgb54TvClZ8lkOrWMevk7vBKqy-ztI)
 <h1 align="center">Hi 👋, I'm Bhumika V</h1>
 <h3 align="center">As a passionate Data Science enthusiast and a lifelong learner, I bring a robust skill set encompassing Python, SQL, Machine Learning, AI, Cloud and Software Testing.</h3>
 
